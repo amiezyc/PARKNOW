@@ -11,6 +11,19 @@
 		D07620542A038BC500AF4130 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07620532A038BC500AF4130 /* ContentView.swift */; };
 		D07620562A038BD900AF4130 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D07620552A038BD900AF4130 /* Assets.xcassets */; };
 		D07620592A038BD900AF4130 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D07620582A038BD900AF4130 /* Preview Assets.xcassets */; };
+		D076206A2A03924400AF4130 /* ParkingFinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07620692A03924400AF4130 /* ParkingFinder.swift */; };
+		D076206D2A0392A400AF4130 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = D076206C2A0392A400AF4130 /* Data.swift */; };
+		D07620702A0392D300AF4130 /* ParkingItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D076206F2A0392D300AF4130 /* ParkingItem.swift */; };
+		D07620732A0394AD00AF4130 /* SpotAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07620722A0394AD00AF4130 /* SpotAnnotationView.swift */; };
+		D07620762A0395B800AF4130 /* ParkingDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07620752A0395B800AF4130 /* ParkingDetailView.swift */; };
+		D07620792A0397CD00AF4130 /* HourChangeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07620782A0397CD00AF4130 /* HourChangeView.swift */; };
+		D076207D2A03980F00AF4130 /* HourSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D076207C2A03980F00AF4130 /* HourSliderView.swift */; };
+		D07620802A03988100AF4130 /* PaymentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D076207F2A03988100AF4130 /* PaymentView.swift */; };
+		D07620842A0398AC00AF4130 /* InfoItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07620832A0398AC00AF4130 /* InfoItemView.swift */; };
+		D07620872A0398E700AF4130 /* ParkingInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07620862A0398E700AF4130 /* ParkingInfoView.swift */; };
+		D076208C2A0399D500AF4130 /* ParkingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D076208B2A0399D500AF4130 /* ParkingCardView.swift */; };
+		D07620902A039A7700AF4130 /* TopNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D076208F2A039A7700AF4130 /* TopNavigationView.swift */; };
+		D07620932A039AD400AF4130 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07620922A039AD400AF4130 /* SearchView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +33,19 @@
 		D07620552A038BD900AF4130 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D07620582A038BD900AF4130 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D076205A2A038BD900AF4130 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D07620692A03924400AF4130 /* ParkingFinder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingFinder.swift; sourceTree = "<group>"; };
+		D076206C2A0392A400AF4130 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		D076206F2A0392D300AF4130 /* ParkingItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingItem.swift; sourceTree = "<group>"; };
+		D07620722A0394AD00AF4130 /* SpotAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotAnnotationView.swift; sourceTree = "<group>"; };
+		D07620752A0395B800AF4130 /* ParkingDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingDetailView.swift; sourceTree = "<group>"; };
+		D07620782A0397CD00AF4130 /* HourChangeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourChangeView.swift; sourceTree = "<group>"; };
+		D076207C2A03980F00AF4130 /* HourSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourSliderView.swift; sourceTree = "<group>"; };
+		D076207F2A03988100AF4130 /* PaymentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentView.swift; sourceTree = "<group>"; };
+		D07620832A0398AC00AF4130 /* InfoItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoItemView.swift; sourceTree = "<group>"; };
+		D07620862A0398E700AF4130 /* ParkingInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingInfoView.swift; sourceTree = "<group>"; };
+		D076208B2A0399D500AF4130 /* ParkingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingCardView.swift; sourceTree = "<group>"; };
+		D076208F2A039A7700AF4130 /* TopNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNavigationView.swift; sourceTree = "<group>"; };
+		D07620922A039AD400AF4130 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +79,11 @@
 			isa = PBXGroup;
 			children = (
 				D07620512A038BC500AF4130 /* iParkAppApp.swift */,
-				D07620532A038BC500AF4130 /* ContentView.swift */,
+				D07620612A038F8700AF4130 /* SpotsView */,
+				D07620622A038FB900AF4130 /* DetailView */,
+				D07620652A038FD400AF4130 /* ViewModel */,
+				D07620662A03904400AF4130 /* Data */,
+				D07620672A03906A00AF4130 /* Model */,
 				D07620552A038BD900AF4130 /* Assets.xcassets */,
 				D076205A2A038BD900AF4130 /* Info.plist */,
 				D07620572A038BD900AF4130 /* Preview Content */,
@@ -67,6 +97,55 @@
 				D07620582A038BD900AF4130 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D07620612A038F8700AF4130 /* SpotsView */ = {
+			isa = PBXGroup;
+			children = (
+				D07620532A038BC500AF4130 /* ContentView.swift */,
+				D07620722A0394AD00AF4130 /* SpotAnnotationView.swift */,
+				D076208B2A0399D500AF4130 /* ParkingCardView.swift */,
+				D076208F2A039A7700AF4130 /* TopNavigationView.swift */,
+				D07620922A039AD400AF4130 /* SearchView.swift */,
+			);
+			path = SpotsView;
+			sourceTree = "<group>";
+		};
+		D07620622A038FB900AF4130 /* DetailView */ = {
+			isa = PBXGroup;
+			children = (
+				D07620752A0395B800AF4130 /* ParkingDetailView.swift */,
+				D076207F2A03988100AF4130 /* PaymentView.swift */,
+				D076207C2A03980F00AF4130 /* HourSliderView.swift */,
+				D07620782A0397CD00AF4130 /* HourChangeView.swift */,
+				D07620832A0398AC00AF4130 /* InfoItemView.swift */,
+				D07620862A0398E700AF4130 /* ParkingInfoView.swift */,
+			);
+			path = DetailView;
+			sourceTree = "<group>";
+		};
+		D07620652A038FD400AF4130 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				D07620692A03924400AF4130 /* ParkingFinder.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		D07620662A03904400AF4130 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				D076206C2A0392A400AF4130 /* Data.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		D07620672A03906A00AF4130 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D076206F2A0392D300AF4130 /* ParkingItem.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +217,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D07620702A0392D300AF4130 /* ParkingItem.swift in Sources */,
+				D07620732A0394AD00AF4130 /* SpotAnnotationView.swift in Sources */,
+				D076208C2A0399D500AF4130 /* ParkingCardView.swift in Sources */,
+				D076207D2A03980F00AF4130 /* HourSliderView.swift in Sources */,
+				D07620902A039A7700AF4130 /* TopNavigationView.swift in Sources */,
+				D07620872A0398E700AF4130 /* ParkingInfoView.swift in Sources */,
+				D07620802A03988100AF4130 /* PaymentView.swift in Sources */,
+				D07620842A0398AC00AF4130 /* InfoItemView.swift in Sources */,
+				D076206A2A03924400AF4130 /* ParkingFinder.swift in Sources */,
+				D07620762A0395B800AF4130 /* ParkingDetailView.swift in Sources */,
+				D07620932A039AD400AF4130 /* SearchView.swift in Sources */,
 				D07620542A038BC500AF4130 /* ContentView.swift in Sources */,
 				D07620522A038BC500AF4130 /* iParkAppApp.swift in Sources */,
+				D07620792A0397CD00AF4130 /* HourChangeView.swift in Sources */,
+				D076206D2A0392A400AF4130 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
